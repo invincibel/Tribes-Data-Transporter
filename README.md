@@ -2,7 +2,7 @@ Tribes-Data-Transporter
 =======================
 
 
-Tribes Data Transporter(TDT) is a simple yet powerful *Python Script* which would be running daily at a fixed time and would be responsible for reading JSON data from google cloud storage(link to bucket would be provided below) and writing the data in any of the Gremlin compatible graph databases(for this use-case we would be using Azure’s cosmos db with Gremlin API).
+Tribes Data Transporter(TDT) is a simple yet powerful *Python Script* which would be running daily at a fixed time and would be responsible for reading JSON data from google cloud storage and writing the data in any of the Gremlin compatible graph databases(for this use-case we have used Azure’s cosmos db with Gremlin API).
 
 
 
